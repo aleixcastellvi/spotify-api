@@ -15,6 +15,7 @@ Features
 
 ```
 conda create -n spotify-api python=3.10
+
 conda activate spotify-api
 ```
 
